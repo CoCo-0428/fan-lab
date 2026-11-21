@@ -1,0 +1,13 @@
+- title: Publications
+  url: /publications/
+- title: People
+  url: /people/
+- title: Project
+  url: /project/
+- title: Collaborations
+  url: /collaborations/
+- title: News
+  url: /news/
+- title: Search
+  url: "#search"
+  search: true
